@@ -2,7 +2,7 @@
 ![logo](https://github.com/ankitas1205/ankitas1205/blob/main/Computer%20Science%20Engineer-min.png)
 <h1 align="center">Hi 👋, I'm Ankita Sharma</h1>
 <h3 align="center">A dedicated software engineer from India with a passion for coding and innovation.</h3>
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=30&duration=3000&pause=1000&color=45D6FF&background=01040200&width=460&height=100&lines=Elevating+Visual+Experiences" />
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=30&duration=3000&pause=1000&color=45D6FF&background=01040200&width=460&height=100&lines=Elevating+Visual+Experiences " />
 </h2>
 
 <img align=“right” alt=“coding” width="380" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif">
